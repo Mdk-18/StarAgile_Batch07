@@ -1,4 +1,4 @@
-**Day 03 - Linux**
+**Day 02 - Linux**
 
 **--------------------------**
 
@@ -246,6 +246,7 @@ It is used to search for a word
 
 
 **Linux Directory Structure**
+
 
 
 
