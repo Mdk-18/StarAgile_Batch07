@@ -1,4 +1,4 @@
-Maven
+Maven.
 ------------------------------------------------
 Module 1: Linux and Shell Scripting
 Module 2: DevOps Overview
@@ -61,6 +61,7 @@ Artifacts will have different extensions based on the type of application
 
 Maven is developed by using JPL
 Maven is developed by Apache Organization
+
 
 
 
